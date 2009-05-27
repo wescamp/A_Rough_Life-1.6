@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-05-22 19:17+0200\n"
+"POT-Creation-Date: 2009-05-27 20:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -351,12 +351,12 @@ msgid "Perhaps that big stony fellow will want to help them to speed things up."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:346 ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:362 ./A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:534 ./A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:997
+#: ./A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:346 ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:360 ./A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:534 ./A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:997
 msgid "Jacques realises that the shadow no longer frightens him. He is calm and determined. His troops around him are reinvigorated and fight on with new purpose. The dark night seems a little brighter. He has become a true commander."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:378 ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:394 ./A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:566 ./A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:1029
+#: ./A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:378 ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:392 ./A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:566 ./A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:1029
 msgid "Finally, Jacques feels that he has set on the road to reaching his full potential, but he still has some way to go."
 msgstr ""
 
@@ -421,7 +421,7 @@ msgid "Kyoko is puzzled by this image. And then it becomes clear to her. Life is
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:425 ./A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:716 ./A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:1060
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:423 ./A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:716 ./A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:1060
 msgid "The Princess fought like a valiant fighter worthy of her dwarvish ancestry and breezed through the enemy ranks with speed worthy of her elven one. And yet, she could not escape or overcome the adversary that struck her down..."
 msgstr ""
 
@@ -1029,89 +1029,83 @@ msgstr ""
 msgid "Now, friends, now!"
 msgstr ""
 
-#. [unit]: type=Elven Maiden, id=Kyoko
-#. [unit]: id=Kyoko, type=Elven Queen
-#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:329 ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:267
-msgid "Kyoko"
-msgstr ""
-
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:1041 ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:440
+#: ./A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:1041 ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:438
 msgid "It was said afterwards that a big bird circled above Jacques and went at him just as he was attacked by one of the brutes, making him lose his footfold, trip and fall; a momentary fall that swiftly turned into an eternal one."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:452
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:450
 msgid "Seeing that they will eventually be overcome, the brutes manage to break off and run for the mountains. Jacques and his troops try to follow them or find the path to their mountain retreat, but to no avail. It is as if the mountains were closed to them."
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:482
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:480
 msgid "Well done! Don't kill them, just lock them up and don't let them escape!"
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:507
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:505
 msgid "Two's company!"
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:532
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:530
 msgid "I hope three's not too crowded for you!"
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:536
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:534
 msgid "My my, someone's in a jovial mood today."
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:561
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:559
 msgid "Four no-trump! A game of bridge, anyone?"
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:586
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:584
 msgid "Five! Now there's a well-rounded hand, no fingers missing."
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:590
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:588
 msgid "Thank god this is over, I was beginning to feel I married a madman."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:594
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:592
 msgid "With the brutes caught, Jacques forces them to tell him how to reach their hidden mountain abode. Fortunately for him and for everyone involved, his confident presence and the fact that Ruphulus is no more is enough to loosen their tongues, and he soon has both the map to their hideout and its general outline."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:599
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:597
 msgid "The first hurdle to overcome is the ogres' outpost at the edge of a crater now largely filled with a makeshift lake. That part, or so Jacques figures, should be easy. But then, they still need to overpower the main stronghold of the trolls, and find a way to return the river to the valley."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:604
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:602
 msgid "Unsure as to what to do, Jacques turns once more to the Book of Prophecies for assistance. As he opens its covers, he is shown a fork in the road."
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:609
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:607
 msgid "Surely not another decision to make?! Why can't this one last task be a straightforward one? At least, the Book, I beseech you not to give me vague directions that will be as useless to follow as they will be annoying to comprehend."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:613
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:611
 msgid "The book, however, does not respond in kind. Rather, it shows Jacques two images. The first is of him standing on top of a large hill of bodies, mostly of trolls and ogres, as he watches a battering ram being pushed across the water towards the dam."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:618
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:616
 msgid "The second, in contrast, has him standing out of harm's way at the elevated edge of the crater, watching as the water level of the makeshift lake slowly rises and engulfs the trolls' stronghold, and then breaks the dam by pressure alone. Oddly enough, however, as the water rises before his eyes, it also rises in his eyes, and Jacques has to wipe away a few tears."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:623
+#: ./A_Rough_Life/scenarios/14_Changing_Destiny.cfg:621
 msgid "Such is the cryptic message. Inasmuch as Jacques can comprehend, his choice is between force and cunning: the former requiring much battle and possible heavy losses so as to be able to construct and launch a battering vessel, and the latter some roundabout way of blocking the river's exit so as to have the dam break under the pressure of the rising water. He would prefer the second option any day, were it not for those tears. What could they mean? How would the river be blocked? What would have to be done?"
 msgstr ""
 
@@ -2418,6 +2412,11 @@ msgstr ""
 msgid "She is very ill, as I'm sure you can imagine. Why, all that sunshine got to her, and she is quite badly done in. We have been doing our best to keep her safe and alive, but I must say you showed up in the nick of time. She needs help and medicine, and she needs them fast."
 msgstr ""
 
+#. [unit]: type=Elven Maiden, id=Kyoko
+#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:329
+msgid "Kyoko"
+msgstr ""
+
 #. [message]: speaker=narrator
 #: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:352
 msgid "The woses spread their branches and you spot a woman lying on the ground between them. A beautiful woman, and yet clearly in a lot of pain."
@@ -2549,27 +2548,27 @@ msgid "We did it! We killed the first leader! Now onwards, let us send the other
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:680 ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:725 ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:764 ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:809 ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:848
+#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:676 ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:721 ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:760 ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:805 ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:844
 msgid "Watch out, another wave has appeared!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:949
+#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:945
 msgid "They all tried to protect the Princess, but one of the beasts managed to sneak past the defences and strike at her lying body. Immediately, the nearest guard was upon the beast and it was slain, and yet it was too late, for one hit was all it took to take the life of the Princess. And without her to aid him, Jacques' fate would not change."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:964
+#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:960
 msgid "It was said afterwards that a big black bird circled above Jacques and started cackling as he was dealt a deadly blow by the beast. His troops fought valiantly on, but without clear direction stood no chance against the onslaught of the beasts..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:998
+#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:994
 msgid "As Jacques fights the beasts and tries to prevent them from hurting all those under his command, he realises that the great changes he's experienced in his life have caused him to change. He has truly left his roguish ways behind him."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:1011
+#: ./A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:1007
 msgid "Not being able to complete the task swiftly, Jacques and his fellow hunters are suddenly swarmed by beasts coming at them from all sides. They fight valiantly, but finally succomb to the sheer might of numbers, and Jacques is no more."
 msgstr ""
 
