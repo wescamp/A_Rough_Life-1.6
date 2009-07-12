@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-07-05 17:23+0200\n"
+"POT-Creation-Date: 2009-07-12 17:50+0200\n"
 "PO-Revision-Date: 2009-05-22 19:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -279,7 +279,7 @@ msgstr ""
 #. [side]: type=Fire Dragon, id=Ruphulus
 #: A_Rough_Life/scenarios/2_Captivity.cfg:168
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:52
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:703
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:816
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:109
 msgid "Ruphulus"
 msgstr ""
@@ -331,7 +331,7 @@ msgid "Death of Jacques or Kyoko or turns run out."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:362
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:365
 msgid ""
 "Albeit he has led his troops all the way to the final battle, Jacques can "
 "hardly bear to look them in their eyes. He has personally survived this far "
@@ -341,7 +341,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:375
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:378
 msgid ""
 "Looking at the soldiers and trusty friends around him, Jacques sees several "
 "that he thinks would be better fit to lead this expedition than him. Sure, "
@@ -351,7 +351,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:385
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:388
 msgid ""
 "As the troops get ready for the assault, Jacques signals that they should "
 "wait just a little while longer. He hopes that Kyoko might be able to "
@@ -360,7 +360,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:390
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:393
 msgid ""
 "After several fruitless attempts, Kyoko tries yet again to concentrate and "
 "opens the book. And again, she is not drawn inside and shown images, but "
@@ -370,14 +370,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:395
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:398
 msgid ""
 "I do not care about bridges! How do we defeat Ruphulus, that is all I would "
 "know. What is the fate that we may impose on him?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:399
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:402
 msgid ""
 "As she speaks up, the words in the book change. Now, the message reads: 'She "
 "who would travel in a straight line shall find no end, but she who will find "
@@ -385,12 +385,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:404
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:407
 msgid "Kyoko? Any luck?"
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:408
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:411
 msgid ""
 "I'm afraid not, although I do believe the book is trying to tell me "
 "something, but it is a message I do not fully understand. Perhaps it's "
@@ -398,12 +398,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:412
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:415
 msgid "If not here, then where? For I fear that nothing good lies up ahead."
 msgstr ""
 
 #. [message]: speaker=King Bombasan
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:416
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:419
 msgid ""
 "Things are as they are, and we can't help them. Perhaps the chance for "
 "miracles will still come. In the meantime, however, we should worry about "
@@ -411,86 +411,136 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:420
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:423
 msgid ""
 "You are right, of course. Friends, comrades, onwards, and may open skies "
 "smile upon us once more!"
 msgstr ""
 
 #. [message]: speaker=Loathing
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:444
-msgid "I simply loathe staring down eerie corridors, what about you, brother?"
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:447
+msgid ""
+"Damn this sentry duty! I simply loathe staring down eerie corridors. What "
+"about you, brother?"
 msgstr ""
 
 #. [message]: speaker=Fear
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:448
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:451
 msgid "I don't like it, either, makes me afraid of what might come up."
 msgstr ""
 
 #. [message]: speaker=Loathing
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:452
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:455
 msgid ""
 "Hey! Do I see someone approaching? Heavens help me if it's those loathsome "
 "dwarves again!"
 msgstr ""
 
 #. [message]: speaker=Fear
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:456
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:459
 msgid ""
 "Don't frighten me like that! I'm sure it's just some weary travellers lost "
 "on their way, looking for a place to crash."
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:460
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:463
 msgid "Not exactly crash, but crush - crush your bones, that is!"
 msgstr ""
 
 #. [message]: speaker=Fear
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:468
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:475
 msgid "Loathing, brother, where art thou?"
 msgstr ""
 
 #. [message]: speaker=Loathing
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:472
-msgid "The only thing that I do not fear is Fear itself."
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:479
+msgid "I'm here, brother, don't be afraid."
 msgstr ""
 
 #. [message]: speaker=Fear
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:476
-msgid "Should we ask for help?"
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:483
+msgid ""
+"Do you think there's any chance that these creatures will leave us alone?"
 msgstr ""
 
 #. [message]: speaker=Loathing
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:480
-msgid "Help!"
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:487
+msgid "I only know that I would hate it if they didn't."
+msgstr ""
+
+#. [message]: speaker=Loathing
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:494
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:542
+msgid "You killed my brother!"
+msgstr ""
+
+#. [message]: speaker=Loathing
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:498
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:546
+msgid ""
+"If only I could, I'd send you to your unfortunate fate to meet him again!"
 msgstr ""
 
 #. [message]: speaker=Fear
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:488
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:505
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:553
+msgid ""
+"Loathing, brother, where art thou? What have you done to him? Why are his "
+"bones no longer moving?"
+msgstr ""
+
+#. [message]: speaker=Fear
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:509
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:557
+msgid "I suppose there's no way we could talk this through, is there?"
+msgstr ""
+
+#. [message]: speaker=Fear
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:523
 msgid "Are we still here?"
 msgstr ""
 
 #. [message]: speaker=Loathing
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:492
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:527
 msgid "My my, they go about their business very slowly, don't they?"
 msgstr ""
 
 #. [message]: speaker=Fear
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:496
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:531
 msgid "One wonders if they'll even get to the boss in time at this rate."
 msgstr ""
 
 #. [message]: speaker=Loathing
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:500
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:535
 msgid ""
 "Perhaps that big stony fellow will want to help them to speed things up."
+msgstr ""
+
+#. [message]: speaker=Fear
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:570
+msgid "What... what is this feeling? Suddenly, I... I feel no fear..."
+msgstr ""
+
+#. [message]: speaker=Jacques
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:584
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:611
+msgid ""
+"Odd and pitiful creatures, the pair of them. I hope they indeed find their "
+"rest beyond death and undeath... And now, onwards, friends, onwards!"
+msgstr ""
+
+#. [message]: speaker=Loathing
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:597
+msgid ""
+"Have I indeed been killed... yet again? Oh no, don't worry, I do not loathe "
+"you. Finally, I'm free..."
 msgstr ""
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:327
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:341
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:516
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:629
 #: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:978
 msgid ""
 "Jacques realises that the shadow no longer frightens him. He is calm and "
@@ -502,7 +552,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:339
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:353
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:528
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:641
 #: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:990
 msgid ""
 "Finally, Jacques feels that he has set on the road to reaching his full "
@@ -510,29 +560,29 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:549
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:662
 msgid "Forbidden entry! By order of the Dragon Lord!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:562
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:675
 msgid "Rule #1 states: Obey orders or die! And you didn't obey orders..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:594
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:707
 msgid "What a calm, peaceful place! I wonder why it has been put here?"
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:606
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:719
 msgid ""
 "Yes, I think I was right in coming here in order to consult the book. Now "
 "just to find the proper place..."
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:618
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:731
 msgid ""
 "A little island with an oak tree leaning to one side! I think I found the "
 "proper place, it's so calm, so soothing. Why did such a monster as Ruphulus "
@@ -540,7 +590,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:622
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:735
 msgid ""
 "As Kyoko leans against a tree, she almost wishes she could stay here "
 "forever. It is a place which does her extremely well, and she has an eerie "
@@ -549,7 +599,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:627
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:740
 msgid ""
 "First, she sees herself, singing a song during the last celebrations of her "
 "father's birthday, as the vision pans to show Ruphulus watching her with a "
@@ -558,7 +608,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:632
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:745
 msgid ""
 "Then, she sees herself collapsed on the floor, as Ruphulus gently picks her "
 "up, carries her down a corridor and transforms into a dragon. So it was his "
@@ -571,7 +621,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:643
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:756
 msgid ""
 "Finally, she is shown images from the battle that day when they confronted "
 "the evil mage and he transformed into the dragon before their very eyes. "
@@ -579,7 +629,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:650
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:763
 msgid ""
 "Kyoko wonders why she is being shown the images from the past, until she "
 "realises their significance. The evil mage is in love with her! That is why "
@@ -590,7 +640,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:655
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:768
 msgid ""
 "With this awareness, she is swept into the Book once more, and shown the "
 "image of herself, walking across a bridge, broken and unbroken, towards a "
@@ -601,7 +651,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:660
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:773
 msgid ""
 "Kyoko is puzzled by this image. And then it becomes clear to her. Life is "
 "not fair, Luxor said. This, as she has come to realise, is a truth that cuts "
@@ -610,7 +660,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:382
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:676
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:789
 #: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:1019
 msgid ""
 "The Princess fought like a valiant fighter worthy of her dwarvish ancestry "
@@ -619,12 +669,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Ruphulus
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:692
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:805
 msgid "Hahaha! You think your puny little swords and arrows can kill me?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:696
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:809
 msgid ""
 "Just when they think they have the Dragon defeated, Ruphulus rises in front "
 "of them again, fully healed."
@@ -634,13 +684,13 @@ msgstr ""
 #. [unit]: type=Great Troll, id=Krug
 #: A_Rough_Life/scenarios/15a_Vengeance_in_the_Making.cfg:44
 #: A_Rough_Life/scenarios/15b_Vengeance_in_the_Making.cfg:41
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:732
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:779
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:845
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:892
 msgid "Krug"
 msgstr ""
 
 #. [message]: speaker=Krug
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:739
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:852
 msgid ""
 "You haven't had enough yet, have you? Well, I can always enlarge that "
 "bonestack at the bottom of the mountain. You bonehea... Hey! This one has "
@@ -648,14 +698,14 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:743
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:856
 msgid ""
 "Huh? We thought nobody but the undead could be found here. I gather you are "
 "not a minion of Ruphulus, are you?"
 msgstr ""
 
 #. [message]: speaker=Krug
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:747
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:860
 msgid ""
 "Meat on its bones, and it talks like it does not care for those stupid old "
 "boneheads. Reminds me of that crazy explorer, it does. Hmmm... Who is this "
@@ -663,49 +713,49 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:751
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:864
 msgid ""
 "We have come with King Bombasan to defeat Ruphulus and his army, and to "
 "liberate these caves once more!"
 msgstr ""
 
 #. [message]: speaker=Krug
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:755
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:868
 msgid ""
 "Ha! Liberate, weaklings says. Would they have the caves liberated of Krug, "
 "as well?"
 msgstr ""
 
 #. [message]
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:759
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:872
 msgid ""
 "Only if you wanted to attack us and invade our own lands further up towards "
 "the surface."
 msgstr ""
 
 #. [message]: speaker=Krug
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:763
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:876
 msgid ""
 "The surface, ha! The surface is for weaklings. Krug is perfectly happy here, "
 "if only the pesky bones would not disturb him."
 msgstr ""
 
 #. [message]
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:767
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:880
 msgid ""
 "Then it seems we may have a common purpose - we don't like them either. "
 "Would you join us in our fight against them?"
 msgstr ""
 
 #. [message]: speaker=Krug
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:771
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:884
 msgid ""
 "And be rid of them, and have the peace and quiet once more? Yes, Krug would "
 "like that, so he joins you."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:797
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:910
 msgid ""
 "The hut is empty, but there is something strange about it. It is not as "
 "barren as the others, and has garments and strange equipment that surely "
@@ -714,7 +764,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:810
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:923
 msgid ""
 "You stumble upon a dead body that is different from the other sights of "
 "scattered bones. It seems that the person died relatively recently. "
@@ -722,21 +772,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:821
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:934
 msgid ""
 "Perhaps this is the explorer that Krug mentioned when we first came across "
 "him!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:827
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:940
 msgid ""
 "They pick up and consult the maps. As they do so, the layout of this part of "
 "the cave system becomes much clearer."
 msgstr ""
 
 #. [message]: speaker=Bone Marshall
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:843
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:956
 msgid ""
 "Damn you, you fools. I have let the King down, and the path that leads to "
 "him has become a little clearer. But be warned, for there are adversaries "
@@ -745,28 +795,28 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Pet of Death
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:859
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:972
 msgid ""
 "Arghh, I failed, and another stone is added to the bridge that you must "
 "cross. But still, you won't succeed!"
 msgstr ""
 
 #. [message]: speaker=Counsellor of Death
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:878
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:991
 msgid ""
 "I see we have some uninvited visitors, busybodies sticking their noses where "
 "they don't belong!"
 msgstr ""
 
 #. [message]: speaker=Counsellor of Death
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:882
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:995
 msgid ""
 "Busybodies, haha! I will indeed find good use for your bodies, once they law "
 "sprawled beneath my feet!"
 msgstr ""
 
 #. [message]: speaker=Counsellor of Death
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:893
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1006
 msgid ""
 "Hahahaha, you may have defeated me and got yet one more step closer to the "
 "Dragon Lord, but so much the worse for you, for who wants to feel the wrath "
@@ -774,31 +824,31 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:925
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1038
 msgid ""
 "As Kyoko steps into the chamber of the Dragon, she yells out for everyone to "
 "stop fighting. In bewilderment, those who hear her command obey."
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:930
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1043
 msgid "I need to speak to Ruphulus. Alone."
 msgstr ""
 
 #. [message]: speaker=Jacques
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:934
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1047
 msgid "No, Kyoko! Don't do it. There is no need to. We can beat the Dragon!"
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:938
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1051
 msgid ""
 "Shush, brute! What needs to be done needs to be done. Besides, it's not only "
 "that I need to do it, I want to."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:942
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1055
 msgid ""
 "Jacques cannot comprehend it. Was she able to consult the Book? What did she "
 "see? Must she really sacrifice herself in order to save the others? He knows "
@@ -807,37 +857,37 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:955
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1068
 msgid ""
 "The Dragon is just as perplexed as she approaches him. He looks at her with "
 "unsure eyes, as she smiles reassuringly."
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:964
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1077
 msgid ""
 "It is beautiful. The little haven you built for me, it's truly beautiful."
 msgstr ""
 
 #. [message]: speaker=Ruphulus
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:968
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1081
 msgid "It is?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:972
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1085
 msgid "The Dragon wavers, unsure what to think of it."
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:977
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1090
 msgid ""
 "Yes, it is. I never thought you had such beauty in you. Why didn't you show "
 "it to me earlier?"
 msgstr ""
 
 #. [message]: speaker=Ruphulus
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:981
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1094
 msgid ""
 "I... I... wanted to, but I never really got the chance. When it was done, I "
 "tried to invite you to see it, but you turned me down, remember? It still "
@@ -845,7 +895,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:985
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1098
 msgid ""
 "I do, of course I do. I didn't like being accosted like that. But had I "
 "known you had such a thing of beauty waiting for me, I would behave "
@@ -853,13 +903,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:989
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1102
 msgid ""
 "As she speaks, Kyoko approaches the Dragon who is becoming visibly agitated."
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:997
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1110
 msgid ""
 "I'm sorry it turned out like that. Oh, Ruphulus, have I driven you to become "
 "a dragon? Can you never be the same old Ruphulus again? I would so much like "
@@ -867,7 +917,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ruphulus
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1001
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1114
 msgid ""
 "Wait, my dear Kyoko. This is but one impenetratable shell that I use, but "
 "the old Ruphulus is still inside. Here he is, as eager to talk to you as you "
@@ -875,7 +925,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1024
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1137
 msgid ""
 "With a flash, the dragon is transformed into the old mage in his human form "
 "once more. Mighty though he is, his chin and hands shake as he looks at "
@@ -883,14 +933,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1029
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1142
 msgid ""
 "Oh, Ruphulus, it's so nice to see you again. What horrors have been "
 "transpiring to me, you would never know. Can you help, can you make it stop?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1033
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1146
 msgid ""
 "With these words, Kyoko throws herself at Ruphulus and flings her arms "
 "around him in embrace. The old mage seems to be at a loss for words as he "
@@ -898,14 +948,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ruphulus
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1038
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1151
 msgid ""
 "What do you mean, help? I can make your life wonderful, and make you the "
 "queen of the world. As soon as we defeat the advers..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1042
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1155
 msgid ""
 "As the old mage speaks with tremor in his heart and mind, he fails to notice "
 "the imperceptible movement of Kyoko's hand as it reaches for a secret dagger "
@@ -914,7 +964,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ruphulus
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1047
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1160
 msgid ""
 "Wha-at? Di.. did you stab me? Oh, the pain... What is this warmth spilling "
 "down my neck? Is it my blood? Why is it suddenly becoming so cold? Are you "
@@ -923,7 +973,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1051
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1164
 msgid ""
 "As life's energy slowly sips out of the old mage, Kyoko can do nothing but "
 "watch. Sure, he was an evil man who wished nothing but destruction upon the "
@@ -932,7 +982,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1056
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1169
 msgid ""
 "As Ruphulus finally collapses to the floor, dead, nothing unusual happens. "
 "There is no lightning bolt, no dragon reappears, no cry of desperation is "
@@ -942,19 +992,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1072
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1185
 msgid ""
 "I know what I need to do, but I still need to be able to even get to "
 "Ruphulus to do it."
 msgstr ""
 
 #. [message]: speaker=Kyoko
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1080
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1193
 msgid "I know I can bring this to an end, somehow, but where will I learn how?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1093
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1206
 msgid ""
 "Leading his forces valiantly into battle, Jacques wants to lead by example "
 "and plunges into the thick of the struggle. Suddenly, he realises that he is "
@@ -964,7 +1014,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1108
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1221
 msgid ""
 "The King fights like he is a young man again. His hammer is music to his "
 "soldiers' ears as it cracks against the undead skulls, and each of his "
@@ -975,7 +1025,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1113
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1226
 msgid ""
 "But the soldiers do not despair. No, they see Jacques leading them into "
 "battle and they are determined to fight on ever more bravely, to pay tribute "
@@ -983,7 +1033,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1126
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:1239
 msgid ""
 "Jacques and his soldiers tried their best, and for a long time it seemed "
 "they stood a chance against the dragon. And yet, their forces dwindled down "
@@ -2370,7 +2420,7 @@ msgstr ""
 msgid "Led Astray"
 msgstr ""
 
-#. [side]: id=Young Jacques, type=Thief
+#. [side]: id=Jacques, type=Thief
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:22
 msgid "Young Jacques"
 msgstr ""
@@ -2565,43 +2615,43 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Evil Goblin Trader
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:338
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:337
 msgid "This is tougher than I thought. Call in the heavy cavalry!"
 msgstr ""
 
 #. [message]: id=Greedy Farmer
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:351
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:350
 msgid "We've had enough. Let's go home, boys!"
 msgstr ""
 
 #. [message]: id=Greedy Villager
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:359
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:358
 msgid "Fall back, lads! Let the big guns take care of it."
 msgstr ""
 
 #. [message]: id=Evil Goblin Trader
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:373
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:372
 msgid ""
 "How can this be? And that summer villa for me to retire in was just one "
 "sales trip away..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:377
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:376
 msgid ""
 "Against all odds, the boss of the goblin traders has been slain. And yet, "
 "the others still persevered and finally overcame the proud young douche..."
 msgstr ""
 
 #. [message]: id=Young Jacques
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:386
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:385
 msgid ""
 "Ha! The dragon may have taken me after all, but its head has been cut off "
 "just the same. Never will my own head drop in disgrace like this."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:404
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:402
 msgid ""
 "Jacques has persevered for five days, and still he stands high upon a pile "
 "of slain adversaries. Finally, at long last, they manage to overcome him. "
@@ -5403,11 +5453,14 @@ msgstr ""
 
 #. [attack]: type=blade
 #: A_Rough_Life/units/Battle_Commander.cfg:45
+#: A_Rough_Life/units/Sand_Ranger.cfg:19
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_Rough_Life/units/Battle_Commander.cfg:54
+#: A_Rough_Life/units/Sand_Trapper.cfg:31
+#: A_Rough_Life/units/Battle_Commander.cfg:57
+#: A_Rough_Life/units/Sand_Ranger.cfg:31
 msgid "bow"
 msgstr ""
 
@@ -5506,4 +5559,9 @@ msgid ""
 "all things considered. The archery skills of a woodsman remain useful in the "
 "desert, and he soon learns to cope with the unstable footing presented by "
 "the sands."
+msgstr ""
+
+#. [attack]: type=blade
+#: A_Rough_Life/units/Sand_Trapper.cfg:19
+msgid "dagger"
 msgstr ""
