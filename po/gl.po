@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-07-12 17:50+0200\n"
+"POT-Creation-Date: 2009-07-23 20:46+0200\n"
 "PO-Revision-Date: 2009-05-22 19:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -307,12 +307,12 @@ msgstr ""
 msgid "Counsellor of Death"
 msgstr ""
 
-#. [side]: type=Chocobone, id=Fear
+#. [side]: type=Skeleton_Guardian_left, id=Fear
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:179
 msgid "Fear"
 msgstr ""
 
-#. [side]: type=Chocobone, id=Loathing
+#. [side]: type=Skeleton_Guardian_right, id=Loathing
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:200
 msgid "Loathing"
 msgstr ""
@@ -437,13 +437,13 @@ msgstr ""
 #. [message]: speaker=Fear
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:459
 msgid ""
-"Don't frighten me like that! I'm sure it's just some weary travellers lost "
-"on their way, looking for a place to crash."
+"Don't frighten me like that! I'm sure it's just some travellers lost on "
+"their way, looking for a place to lay down their weary bones."
 msgstr ""
 
 #. [message]: speaker=Jacques
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:463
-msgid "Not exactly crash, but crush - crush your bones, that is!"
+msgid "We will indeed be laying down some weary bones, but not our own!"
 msgstr ""
 
 #. [message]: speaker=Fear
@@ -2454,26 +2454,67 @@ msgid "Getting taken before turn 15."
 msgstr ""
 
 #. [part]
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:172
-msgid ""
-"It was a rough life, rotting away in the little village of Mosh, or so "
-"Jacques has come to believe ever since he heard the tales of faraway places. "
-"Big castles, powerful kings, mighty mages and fair maidens occupied his "
-"mind. Often, he would talk aloud of his plans to make it big, someday."
-msgstr ""
-
-#. [part]
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:175
-msgid ""
-"His friends teased him about this, but not too much. After all, Jacques was "
-"the son of Yves the Surly, a drunk but nevertheless also the leader of a "
-"little band of bandits that harassed all the villages in the area. While "
-"this made Jacques unpopular with the common folk, it also gave him a "
-"sheltered existence."
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:174
+msgid "He is being tossed about on the open seas in the middle of a storm."
 msgstr ""
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:178
+msgid "No, he's crawling away from a battlefield. Why is he even there?"
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:182
+msgid "Ahh, the sacred treasure. Must... get... the... treasure."
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:186
+msgid ""
+"Is that him? Where is he going? Why is it so desolate? Is no one else around?"
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:190
+msgid "Who are they? No, WHAT are they??"
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:194
+msgid "Go away, you fiends! Go away!"
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:222
+msgid "His home, all burnt down! And where is he? In the house? Noooo..."
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:226
+msgid "... and then he'd wake up, drenched in sweat and excitement."
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:230
+msgid ""
+"Such were the dreams that Jacques had, foretelling his fate or at least "
+"betraying his desires for adventure at all costs. Big castles, powerful "
+"kings, mighty mages and fair maidens occupied his mind. He would often even "
+"talk aloud of his plans to make it big, someday."
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:234
+msgid ""
+"His friends teased him about this, but not too much. After all, Jacques was "
+"the son of Yves the Surly, a drunk but also the leader of a little band of "
+"bandits that harassed the area around the village of Mosh. While this made "
+"Jacques unpopular with the common folk, it also gave him a sheltered "
+"existence."
+msgstr ""
+
+#. [part]
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:238
 msgid ""
 "Thus Jacques dreamt of the day that he could leave and move on to greater "
 "things. And then, that day had arrived. Perhaps not quite as Jacques had "
@@ -2481,7 +2522,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:181
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:242
 msgid ""
 "A treasure ship was seen to have crashed onto a small island off the coast "
 "not far from Mosh, or at least that was the rumour circulating around the "
@@ -2490,21 +2531,21 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:184
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:246
 msgid ""
 "Jacques called together his small band of ruffians and set off to the island "
 "to investigate. And this is where our story begins..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:192
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:258
 msgid ""
 "Jacques finds himself on the small island, but with no promised riches in "
 "sight."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:197
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:263
 msgid ""
 "Shielding his eyes from the evening sun to find the wrecked treasure ship, "
 "he spots smaller boats coming ashore, and finally the facts click into "
@@ -2512,7 +2553,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:202
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:268
 msgid ""
 "He sees not one or two, but three encampments around him. First, there are "
 "the villagers who tricked him into coming to this island in the first place. "
@@ -2525,7 +2566,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Evil Goblin Trader
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:207
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:273
 msgid ""
 "Remember, there is a good price for each one taken! You may beat some sense "
 "into them, but do not waste them. Most importantly, catch their snotty "
@@ -2533,123 +2574,135 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Greedy Villager
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:211
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:277
 msgid "Money! Gimme money!"
 msgstr ""
 
 #. [message]: id=Greedy Farmer
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:215
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:281
 msgid "Yes, money, and good riddance of that ruffian scum to boot!"
 msgstr ""
 
 #. [message]: id=Mud Slime
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:219
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:285
 msgid "Gurgle! (Food!)"
 msgstr ""
 
 #. [message]: id=Greedy Farmer
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:223
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:289
 msgid ""
 "Oh no! The island is infested with slime! How can this be? We have to get "
 "rid of it, before it manages to find its way onto our shores!"
 msgstr ""
 
 #. [message]: id=Evil Goblin Trader
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:227
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:293
 msgid ""
 "Do not forget the grand prize, peasants! The little thieves is what we're "
 "after, and surely we need not bother about some rubbish slime."
 msgstr ""
 
 #. [message]: id=Mud Slime
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:231
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:297
 msgid "Mrrrmm! (Hungry!)."
 msgstr ""
 
-#. [message]: id=Young Jacques
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:235
+#. [message]: id=Jacques
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:301
 msgid ""
-"I am not the thief on this island! Unless you count my stealing your senses "
-"with my club, you filthy goblins!"
+"I am not the thief on this island! Unless you count our stealing your senses "
+"with our clubs, you filthy goblins!"
 msgstr ""
 
-#. [message]: id=Young Jacques
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:246
+#. [message]: id=Jacques
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:312
 msgid ""
 "Whatever happens, at least now I have proven my worth in cuts and bruises "
 "and may hold my head high."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:263
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:336
 msgid "Let me get rid of this slime for you amateurs! Shouldn't take long."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:282
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:368
+msgid ""
+"What does this gob of slime think it's doing? Wait, is it really attacking "
+"me? Help, help!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:384
 msgid "Hey! This thing can attack! Help, help!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:418
+msgid "I cannot believe it! Killed by this stupid slime? Ahh, what shame..."
 msgstr ""
 
 #. [message]: speaker=unit
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:320
 #: A_Rough_Life/scenarios/2_Captivity.cfg:391
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:301
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:314
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:443
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:456
 msgid "Aaaargh!"
 msgstr ""
 
 #. [message]: speaker=Evil Goblin Trader
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:305
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:447
 msgid ""
 "Ahh! Not as springly as I thought. No special sale for him then, just your "
 "regular gallows..."
 msgstr ""
 
 #. [message]: speaker=Evil Goblin Trader
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:318
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:460
 msgid ""
 "Ahh, a feisty little character, indeed! That will do nicely for where I am "
 "about to send him..."
 msgstr ""
 
 #. [message]: id=Evil Goblin Trader
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:337
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:479
 msgid "This is tougher than I thought. Call in the heavy cavalry!"
 msgstr ""
 
 #. [message]: id=Greedy Farmer
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:350
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:492
 msgid "We've had enough. Let's go home, boys!"
 msgstr ""
 
 #. [message]: id=Greedy Villager
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:358
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:500
 msgid "Fall back, lads! Let the big guns take care of it."
 msgstr ""
 
 #. [message]: id=Evil Goblin Trader
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:372
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:514
 msgid ""
 "How can this be? And that summer villa for me to retire in was just one "
 "sales trip away..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:376
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:518
 msgid ""
 "Against all odds, the boss of the goblin traders has been slain. And yet, "
 "the others still persevered and finally overcame the proud young douche..."
 msgstr ""
 
-#. [message]: id=Young Jacques
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:385
+#. [message]: id=Jacques
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:527
 msgid ""
 "Ha! The dragon may have taken me after all, but its head has been cut off "
 "just the same. Never will my own head drop in disgrace like this."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:402
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:544
 msgid ""
 "Jacques has persevered for five days, and still he stands high upon a pile "
 "of slain adversaries. Finally, at long last, they manage to overcome him. "
@@ -5562,4 +5615,30 @@ msgstr ""
 #. [attack]: type=blade
 #: A_Rough_Life/units/Sand_Trapper.cfg:19
 msgid "dagger"
+msgstr ""
+
+#. [unit_type]: id=Skeleton_Guardian_left
+#. [unit_type]: id=Skeleton_Guardian_right
+#: A_Rough_Life/units/Skeleton_Guardian_left.cfg:7
+#: A_Rough_Life/units/Skeleton_Guardian_right.cfg:7
+msgid "Skeleton Guardian"
+msgstr ""
+
+#. [unit_type]: id=Skeleton_Guardian_left
+#. [unit_type]: id=Skeleton_Guardian_right
+#: A_Rough_Life/units/Skeleton_Guardian_left.cfg:10
+#: A_Rough_Life/units/Skeleton_Guardian_right.cfg:10
+msgid ""
+"Normally, warriors that have been slain in battle and brought back by dark "
+"magics are nearly mindless and unwavering in their purpose, fearing neither "
+"pain nor death. Every now and then, however, something goes amiss in the "
+"process, and the resulting skeleton retains some of its former awareness, "
+"yet hampered by the horrifying experience of dying vividly etched in its "
+"mind."
+msgstr ""
+
+#. [attack]: type=blade
+#: A_Rough_Life/units/Skeleton_Guardian_left.cfg:25
+#: A_Rough_Life/units/Skeleton_Guardian_right.cfg:25
+msgid "axe"
 msgstr ""
